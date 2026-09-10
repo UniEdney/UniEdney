@@ -51,11 +51,10 @@
 
 ### 📊 Estatísticas do GitHub
 
-> Substitua `SEU_USUARIO_GITHUB` pelo seu usuário real do GitHub nos links abaixo.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=default" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UniEdney&show_icons=true&theme=default" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UniEdney" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
@@ -63,13 +62,13 @@
 ### 📫 Como me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/edney-araujo" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com" target="_blank">
+  <a href="mailto:edneyaraujosilva00@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/edneyaraujo0" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
